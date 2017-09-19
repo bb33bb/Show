@@ -42,5 +42,3 @@
 贪吃蛇，有点丑  
 ![snakegif](https://github.com/ZhangFengze/Show/raw/master/snake.gif)  
 
-
-<iframe width="560" height="315" src="http://www.miaopai.com/show/9Sve8-3osRBmmpEvONt~uKP-WbvOSRLH.htm" frameborder="0" allowfullscreen></iframe>
