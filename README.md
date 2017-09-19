@@ -2,6 +2,15 @@
 项目展示  
 构建中……不要急呀  
   
+    
+    
+*  
+自己搭引擎敲游戏  
+这才是我正儿八经写了几个月，几万行了，还只开了个头的项目，  
+后面的那些都是刚学的时候敲出来的  
+但是并没有做Demo。。。先弄个调试用的画面放着，以后放Demo  
+
+![mygame0gif](https://github.com/ZhangFengze/Show/raw/master/mygame0.gif)
   
 *  
 录屏把我的颜色变化都录没了，气。。  
