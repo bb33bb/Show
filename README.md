@@ -2,7 +2,6 @@
 项目展示  
 构建中……不要急呀  
   
-  
 1.
 录屏把我的颜色变化都录没了，气。。  
 ![surprise1gif](https://github.com/ZhangFengze/Show/raw/master/surprise1.gif)
@@ -21,3 +20,12 @@
   
 自己折腾着玩，所以地图功能凑合着来的  
 ![qqtang1gif](https://github.com/ZhangFengze/Show/raw/master/qqtang1.gif)  
+  
+  
+3.  
+![2048gif](https://github.com/ZhangFengze/Show/raw/master/2048.gif)  
+  
+4.  
+天可怜见，我只是想证明我这个可以消一行。。。
+还发现有的方块儿少了几种方向。。懒得加了
+![tetrisgif](https://github.com/ZhangFengze/Show/raw/master/tetris.gif)  
