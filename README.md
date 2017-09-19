@@ -29,3 +29,7 @@
 天可怜见，我只是想证明我这个可以消一行。。。
 还发现有的方块儿少了几种方向。。懒得加了
 ![tetrisgif](https://github.com/ZhangFengze/Show/raw/master/tetris.gif)  
+
+5.  
+贪吃蛇，有点丑  
+![snakegif](https://github.com/ZhangFengze/Show/raw/master/snake.gif)  
