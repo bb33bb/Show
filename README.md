@@ -31,6 +31,11 @@
   
   
 *  
+连连看外挂  
+![llkgif](https://raw.githubusercontent.com/ZhangFengze/Show/master/llk.gif)  
+  
+  
+*  
 ![2048gif](https://github.com/ZhangFengze/Show/raw/master/2048.gif)  
   
 *   
