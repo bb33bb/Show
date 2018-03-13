@@ -10,11 +10,9 @@
 ![zheatengine0gif](https://github.com/ZhangFengze/Show/raw/master/ZheatEngine.gif)
     
 *  
-自己搭引擎敲游戏  
-这才是我正儿八经写了几个月，几万行了，还只开了个头的项目，  
-后面的那些都是刚学的时候敲出来的  
-但是并没有做Demo。。。先弄个调试用的画面放着，以后放Demo  
-（这张图分辨率调的高，有点大，所以没加载完看会有点卡，不是引擎卡啊。。。就弄几个模型就卡这样太夸张了）
+自己搭引擎敲游戏  （其实自去年开始实习以后几个月没更了，回头看看写的不好，会考虑重写或者大改）  
+才写了很少一部分  
+并没有做Demo。。。先弄个调试用的画面放着，以后放Demo  
 ![mygame0gif](https://github.com/ZhangFengze/Show/raw/master/mygame0.gif)
   
 *  
