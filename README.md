@@ -56,7 +56,7 @@
 ![snakegif](https://github.com/ZhangFengze/Show/raw/master/snake.gif)  
 
 *   
-还是干过点正事儿的。看Sedgewick 在Coursera的公开课Algorithm里提到了一个用union set并查集可以解决的问题。  
+看Sedgewick 在Coursera的公开课Algorithm里提到了一个用union set并查集可以解决的问题。  
 做了个可视化，当时觉得挺酷的。。  
 上下界如果连通了就停，否则不断随机设置某块为连通  
 ![unionsetgif](https://github.com/ZhangFengze/Show/raw/master/unionset.gif) 
