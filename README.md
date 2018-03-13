@@ -19,7 +19,9 @@
 *  
 录屏把我的颜色变化都录没了，气。。  
 ![surprise1gif](https://github.com/ZhangFengze/Show/raw/master/surprise1.gif)
-![surprise0gif](https://github.com/ZhangFengze/Show/raw/master/surprise0.gif)
+![surprise0gif](https://github.com/ZhangFengze/Show/raw/master/surprise0.gif)  
+闲着没事改了改参数，发现又是另一种感觉  
+![new_supgif](https://github.com/ZhangFengze/Show/raw/master/new_sup.gif)  
 
 *   
 以前喜欢玩QQ堂。  
