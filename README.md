@@ -1,6 +1,12 @@
 # Show  
 项目展示  
-构建中……不要急呀  
+  
+  
+*  
+[ZheatEngine](https://github.com/ZhangFengze/ZheatEngine/) 仿CE (Cheat Engine)  
+比CE 内存使用更少更平稳，尽量不用硬盘IO，搜索更快  
+功能没CE全，我觉得最关键的用来找基址的几个功能需要debugger，目前还没搞
+![zheatengine0gif](https://github.com/ZhangFengze/Show/raw/master/ZheatEngine.gif)
     
 *  
 自己搭引擎敲游戏  
